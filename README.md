@@ -23,7 +23,7 @@ I'm currently working on some fullstack projects. More information on my reposit
 - General BackEnd and API
 - Python
 - C# (6 months working on my own projects)
-- Godot (VideoGames) (I made one cute game. Information here on the future.)
+- Godot (VideoGames)
 
 #### Frameworks and Others
 - React
