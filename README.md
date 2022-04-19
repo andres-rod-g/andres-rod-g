@@ -1,7 +1,7 @@
 # About Me!
 ## Personal Info
 
-👋🏻 Hi! My name Is Andrés, but you can call me 'Andrew'
+👋🏻 Hi! My name Is [Andrés](https://www.mwkp.online/), but you can call me 'Andrew'
 
 
 I love programming, and learning lots of new things. 
@@ -12,7 +12,7 @@ I love programming, and learning lots of new things.
 I'm a FullStack Developer!
 You can see my FreeCodeCamp Certs on my [LinkedIn page](https://www.linkedin.com/in/andres-felipe-rodr%C3%ADguez-gallego-9055131b0/) if you want.
 Right now, I use the MERN stack with some libraries! I'm (and I'll be always) on learning progress, so maybe on a week or two you will see new things here!
-I'm currently working on some fullstack projects. More information on my repositories.
+I'm currently working on some fullstack projects. More information on my repositories, or on my [portfolio](https://www.mwkp.online/).
 
 ### Learned
 
@@ -27,6 +27,7 @@ I'm currently working on some fullstack projects. More information on my reposit
 
 #### Frameworks and Others
 - React
+- React Native
 - Redux
 - Node JS
 - Express
@@ -36,6 +37,9 @@ I'm currently working on some fullstack projects. More information on my reposit
 - JQuery
 - SASS
 - MUI Material
+- Axios
+- Framer Motion
+- Serverless APIs
 
 
 ## Contact Information
