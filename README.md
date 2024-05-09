@@ -1,4 +1,4 @@
-**Currently: CTO & CPO at VAKANO STUDIO**
+**Currently: Available to Work**
 # Personal Info
 👋🏻 Hi! My name Is **Andrés**.
 
@@ -9,18 +9,18 @@
 # Some of my Knoledges
 
 ## Languages & Importart
-- ⭐⭐⭐⭐✨ HTML & CSS                  
-- ⭐⭐⭐⭐✨ JavaScript
-- ⭐⭐⭐⭐✨ TypeScript
-- ⭐⭐⭐⭐✨ General BackEnd and API
-- ⭐⭐⭐✨✨ Python
-- ⭐⭐⭐✨✨ C#
-- ⭐⭐⭐⭐⭐ Godot
-- ⭐⭐⭐✨✨ NGinx
-- ⭐⭐⭐✨✨ AWS
-- ⭐⭐⭐⭐⭐ Figma
-- ⭐⭐⭐⭐✨ Illustrator
-- ⭐⭐⭐✨✨ Photoshop
+- HTML & CSS                  
+- JavaScript
+- TypeScript
+- eneral BackEnd and API
+- Python
+- C#
+- Godot
+- NGinx
+- AWS
+- Figma
+- Illustrator
+- Photoshop
 
 ## Frameworks and Others
 - React
