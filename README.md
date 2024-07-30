@@ -1,9 +1,9 @@
 **Currently: Available to Work**
 # Personal Info
-👋🏻 Hi! My name Is **Andrés**.
+👋🏻 Hi! My name Is **Andrés Rodríguez**.
 
 - Programmer & Also someone who can lead programmers to a common goal.
-- Leader of a gruop of 15 programmers & designers.
+- Managed a gruop of 15 programmers & designers.
 - Teacher of Game development in schools.
 
 # Some of my Knoledges
@@ -12,7 +12,6 @@
 - HTML & CSS                  
 - JavaScript
 - TypeScript
-- eneral BackEnd and API
 - Python
 - C#
 - Godot
